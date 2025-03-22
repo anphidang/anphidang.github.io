@@ -1,12 +1,12 @@
-#Story-Telling-with-Gen-AI 
+# Story-Telling-with-Gen-AI 
 
-##Features 
+## Features 
 Build a web-based platform where multiple users can collaboratively create short stories or chapters of a novel. 
-###Execution
+### Execution
 - Suggest the next paragraph or sentence in real-time.
 - Provide feedback or alternative versions of user-created content.
 - Offer style translations (e.g., changing a piece of text into Shakespearean English, cyberpunk, or comedic style).
 
 
-##Prerequisities 
+## Prerequisities 
 - REACT library 
