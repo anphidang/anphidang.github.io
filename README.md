@@ -10,3 +10,4 @@ Build a web-based platform where multiple users can collaboratively create short
 
 ## Prerequisities 
 - REACT library 
+- For the backend use Node.js
